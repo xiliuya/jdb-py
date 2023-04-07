@@ -1,3 +1,4 @@
 dist/*
 jdb_history.txt
 */__pycache__/*
+README.md
