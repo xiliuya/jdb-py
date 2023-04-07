@@ -5,3 +5,4 @@
 [[file:images/screenshot.png]]
 * 使用
 与 jdb 命令相同.
+会在当前目录生成 =jdb_history.txt= 用于记录输入.
